@@ -1,10 +1,8 @@
-# dumbass_neural_net
-Toy neural net for dumbasses (LIKE ME!!11!) implemented in python. With a fully jank feedforward and backpropagation implementation. Have fun!
+# dummy_mlp
+(Somewhat inspired from PyTorch, but I never really used it before starting this project HAHA)
+Fun MLP in pandas (for data stuff) and numpy(for everything else lol). Still updating here and there, but idk if/when I'll push those on. It's not too hard to add activations, anyway.
 
+I got annoyed because when I was learning backpropagation and stochastic gradient descent and stuff, honestly, so many sources online are absolute garbage. Either too hand-wavy or didn't show what all of this is in linear algebra terms, but instead would use each individual number in each vector. Crazy work.
 
-Anyway, I got annoyed that people seem to talk about neural networks as if they're these magic problem solvers that are beyond human understanding. It's fine if you don't get what they are, but they're not magic. It's some relatively simple math, and a single algorithm that happens to be a pain to understand well enough to write out by hand and implement in code, but it's well within a person's abilities to comprehend. Realistically, this is an okay way of implementing it in an easy to understand, object-oriented way. Ta-ta!
-
-Yahya Note Afterward:
-  Holy shit, this was a fucking nightmare and a half to debug, it took me like three fucking tries.
-  Anyway, it's still pretty jank and fucky, but it (pretty correctly) follows the principles of a feedforward neural network. Look, I even made it pretty with graphs, so it has to be accurate! Right?
-  Three time's the charm!
+Yaz Note Afterward:
+  Jesus christ this was a nightmare and a half to debug. Third time's the charm!
